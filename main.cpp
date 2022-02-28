@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::printf("Enter a list of numbers (0 to end): ");
+    std::printf("Enter a list of number (0 to end): ");
     int sum = 0;
     int num = 0;
 
